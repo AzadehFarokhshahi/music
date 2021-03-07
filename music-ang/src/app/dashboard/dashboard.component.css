@@ -1,0 +1,25 @@
+
+  .btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .login {
+    border-color: #525b8e;
+    color: #525b8e;
+    box-shadow: inset 0 0 0pt 1.5pt #646faa;
+    border-radius: 10% 12% 17% 9%/38% 48% 33% 55%;
+    font-family: "sofia-pro-soft",Sans-serif;
+    font-weight: 600;
+    float: right;
+  }
+  .login:hover {
+    background: #525b8e;
+    color: white;
+  }
+
+
